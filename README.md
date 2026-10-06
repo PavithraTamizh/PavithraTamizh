@@ -109,11 +109,11 @@ A reusable NPM package for reading and exporting CSV data.
 
 ## 📫 Connect With Me
 
-**LinkedIn:** https://www.linkedin.com/in/pavithradp
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavithra%20Divyaprasanth-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pavithradp)
 
-**Upwork:** https://www.upwork.com/freelancers/~0154bc2261ec91fbb5
+[![Upwork](https://img.shields.io/badge/Upwork-Freelancer-green?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~0154bc2261ec91fbb5)
 
-**Email:** pavithra.tamizh@outlook.com
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=microsoftoutlook)](mailto:pavithra.tamizh@outlook.com)
 
 ---
 
